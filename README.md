@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,50:7aa2f7,100:bb9af7&height=200&section=header&text=Denys%20Sychov&fontColor=c0caf5&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Angular%20%26%20.NET&descSize=20&descAlignY=60&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,50:7aa2f7,100:bb9af7&height=200&section=header&text=Denys%20Sychov&fontColor=c0caf5&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Angular%20and%20.NET&descSize=20&descAlignY=60&animation=fadeIn" alt="header"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/denys-sychov-4b2819242/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
