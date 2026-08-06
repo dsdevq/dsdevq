@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,50:7aa2f7,100:bb9af7&height=200&section=header&text=Denys%20Sychov&fontColor=c0caf5&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Angular%20and%20.NET&descSize=20&descAlignY=60&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,50:7aa2f7,100:bb9af7&height=200&section=header&text=Denys%20Sychov&fontColor=c0caf5&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20and%20Autonomous%20Systems&descSize=20&descAlignY=60&animation=fadeIn" alt="header"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/denys-sychov-4b2819242/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,7 +10,7 @@
 
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Real-time+systems+with+SignalR+%26+APIs;Angular+%2B+.NET+%7C+Docker+%7C+PostgreSQL;Based+in+Dublin%2C+Ireland+%F0%9F%87%AE%F0%9F%87%AA" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+building+with+AI;Autonomous+dev+agents%3A+chat+intent+%E2%86%92+PR;LLM+systems+%7C+RAG+%7C+MCP+tooling;Angular+%2B+.NET+%7C+Docker+%7C+PostgreSQL;Based+in+Dublin%2C+Ireland+%F0%9F%87%AE%F0%9F%87%AA" alt="typing"/>
 </p>
 
 ---
@@ -19,23 +19,39 @@
 
 ```typescript
 const denys = {
-  role: "Full-Stack Developer",
+  role: "Full-Stack Developer × AI Engineer",
   location: "Dublin, Ireland 🇮🇪",
   stack: {
+    ai:       ["Claude", "OpenAI", "LangChain", "RAG", "Agents", "MCP"],
     frontend: ["Angular", "TypeScript", "RxJS"],
     backend:  [".NET", "C#", "ASP.NET Core", "SignalR"],
     data:     ["PostgreSQL", "EF Core"],
     devops:   ["Docker", "NGINX", "Linux", "Git"],
   },
-  focus: ["Clean architecture", "Real-time systems", "Performance & UX"],
-  currentlyExploring: ["Autonomous-dev tooling", "AI agents"],
+  building: "Autonomous-development tooling — chat intent → shipped PR",
+  focus: ["LLM agents", "Clean architecture", "Real-time systems"],
 };
 ```
 
-- 🔧 Full-stack engineer with a strong focus on **Angular + .NET**
-- ⚡ Building **real-time systems** with SignalR, minimal APIs, and EF Core
-- 🐳 Shipping containerized apps with **Docker & NGINX**
-- 🧠 Constantly refining **architecture, performance, and UX**
+- 🤖 Building **AI agents & autonomous-development tooling** (LLMs, RAG, MCP)
+- 🔧 Full-stack engineer with a strong core in **Angular + .NET**
+- ⚡ Shipping **real-time systems** with SignalR, minimal APIs, and EF Core
+- 🐳 Containerized delivery with **Docker & NGINX**, always refining architecture & UX
+
+---
+
+### 🤖 AI & Automation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/AI_Agents-0B0B0B?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/RAG-5A29E4?style=for-the-badge&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/MCP-1a1b26?style=for-the-badge&logoColor=white" alt="MCP"/>
+</p>
+
+> 🚀 **[devclaw](https://github.com/lifekit-hq/devclaw)** — an autonomous-development skill bundle: describe intent in chat, get a reviewed Pull Request back. Part of a broader toolkit (`goalclaw` goal-planner, `workout-claw`, `finance-sentry`) exploring how agents ship real software.
 
 ---
 
@@ -52,7 +68,7 @@ const denys = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dsdevq&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="stats"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dsdevq&show_icons=true&count_private=true&include_all_commits=true&hide=stars&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="stats"/>
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dsdevq&layout=compact&langs_count=8&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="top langs"/>
 </p>
 
@@ -62,10 +78,6 @@ const denys = {
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dsdevq&theme=tokyo-night&bg_color=1a1b26&color=c0caf5&line=7aa2f7&point=bb9af7&hide_border=true&area=true" alt="activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-omega.vercel.app/?username=dsdevq&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
 </p>
 
 ---
