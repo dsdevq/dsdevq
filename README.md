@@ -52,8 +52,8 @@ const denys = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dsdevq&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsdevq&layout=compact&langs_count=8&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="top langs"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dsdevq&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="stats"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dsdevq&layout=compact&langs_count=8&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="top langs"/>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ const denys = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dsdevq&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+  <img src="https://github-profile-trophy-omega.vercel.app/?username=dsdevq&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
 </p>
 
 ---
@@ -74,10 +74,10 @@ const denys = {
 
 <p align="center">
   <a href="https://github.com/lifekit-hq/devclaw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lifekit-hq&repo=devclaw&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="devclaw"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lifekit-hq&repo=devclaw&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="devclaw"/>
   </a>
   <a href="https://github.com/dsdevq/snippets-api-dotnet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dsdevq&repo=snippets-api-dotnet&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="snippets-api-dotnet"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dsdevq&repo=snippets-api-dotnet&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="snippets-api-dotnet"/>
   </a>
 </p>
 
