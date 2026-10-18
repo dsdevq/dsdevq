@@ -5,6 +5,9 @@
   <a href="https://github.com/lifekit-hq"><img src="https://img.shields.io/badge/lifekit--hq-GitHub_org-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="lifekit-hq"/></a>
   <a href="https://github.com/lifekit-hq/finance-sentry"><img src="https://img.shields.io/badge/finance--sentry-ASP.NET_Core_%2B_Angular-bb9af7?style=for-the-badge&logo=dotnet&logoColor=white" alt="finance-sentry"/></a>
   <a href="https://www.linkedin.com/in/denys-sychov-4b2819242/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/dsdevq"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://gitlab.com/dsdevq"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+  <img src="https://komarev.com/ghpvc/?username=dsdevq&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="views"/>
 </p>
 
 Full-stack developer in Dublin, Ireland 🇮🇪 with a strong core in **Angular + ASP.NET Core**. Outside work I build **AI agents and autonomous-development tooling**, in the open, in the [lifekit-hq](https://github.com/lifekit-hq) organization.

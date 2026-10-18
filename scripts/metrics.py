@@ -244,8 +244,8 @@ def main():
     OUT_DIR.mkdir(exist_ok=True)
     repos = active_repos()
     days = contribution_days()
-    if not days:
-        sys.exit("contribution calendar came back empty")
+    if not days or sum(days.values()) == 0:
+        sys.exit("contribution calendar came back empty or all zero")
     cards = {
         "languages.svg": languages_card(repos),
         "stats.svg": stats_card(repos, days),
