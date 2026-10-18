@@ -1,0 +1,61 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/metrics.yml
+      - scripts/metrics.py
+  # Pull requests only prove the graphs still render; nothing is committed.
+  pull_request:
+    paths:
+      - .github/workflows/metrics.yml
+      - scripts/metrics.py
+
+concurrency:
+  group: metrics-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Languages, stats and contribution graphs
+        run: python3 scripts/metrics.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            metrics/snake-dark.svg?palette=github-dark&color_snake=%237aa2f7&color_dots=%231f2335,%23394b70,%23536c9e,%237aa2f7,%23bb9af7
+            metrics/snake-light.svg?palette=github-light&color_snake=%237aa2f7&color_dots=%23ebedf0,%23c9d7fb,%2399b6f7,%237aa2f7,%237c5cd6
+
+      - name: Verify every graph was written
+        run: |
+          for f in languages stats lifekit contributions snake-dark snake-light; do
+            test -s "metrics/$f.svg" || { echo "metrics/$f.svg is missing or empty"; exit 1; }
+          done
+
+      - name: Commit updated graphs
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics
+          if git diff --cached --quiet; then
+            echo "graphs unchanged"
+          else
+            git commit -m "Update profile graphs"
+            git push
+          fi

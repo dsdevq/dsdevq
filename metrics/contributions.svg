@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img" aria-label="Contributions - last 12 months">
+  <title>Contributions - last 12 months</title>
+  <rect x="0.5" y="0.5" width="479" height="249" rx="10" fill="#1a1b26" stroke="#2f334d"/>
+  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+    <text x="24" y="36" font-size="16" font-weight="600" fill="#7aa2f7">Contributions - last 12 months</text>
+    <text x="24" y="55" font-size="11" fill="#7982a9">6,367 in the last year - busiest day 315 on 07 Oct 2026</text>
+<rect x="24" y="206.0" width="26" height="2.0" rx="3" fill="#7aa2f7"/><text x="37" y="200.0" font-size="10" fill="#7982a9" text-anchor="middle">0</text><text x="37" y="226" font-size="10" fill="#7982a9" text-anchor="middle">Nov</text>
+<rect x="60" y="206.0" width="26" height="2.0" rx="3" fill="#7aa2f7"/><text x="73" y="200.0" font-size="10" fill="#7982a9" text-anchor="middle">0</text><text x="73" y="226" font-size="10" fill="#7982a9" text-anchor="middle">Dec</text>
+<rect x="96" y="206.0" width="26" height="2.0" rx="3" fill="#7aa2f7"/><text x="109" y="200.0" font-size="10" fill="#7982a9" text-anchor="middle">0</text><text x="109" y="226" font-size="10" fill="#7982a9" text-anchor="middle">Jan</text>
+<rect x="132" y="206.0" width="26" height="2.0" rx="3" fill="#7aa2f7"/><text x="145" y="200.0" font-size="10" fill="#7982a9" text-anchor="middle">0</text><text x="145" y="226" font-size="10" fill="#7982a9" text-anchor="middle">Feb</text>
+<rect x="168" y="198.7" width="26" height="9.3" rx="3" fill="#7aa2f7"/><text x="181" y="192.7" font-size="10" fill="#7982a9" text-anchor="middle">135</text><text x="181" y="226" font-size="10" fill="#7982a9" text-anchor="middle">Mar</text>
+<rect x="204" y="194.1" width="26" height="13.9" rx="3" fill="#7aa2f7"/><text x="217" y="188.1" font-size="10" fill="#7982a9" text-anchor="middle">201</text><text x="217" y="226" font-size="10" fill="#7982a9" text-anchor="middle">Apr</text>
+<rect x="240" y="168.5" width="26" height="39.5" rx="3" fill="#7aa2f7"/><text x="253" y="162.5" font-size="10" fill="#7982a9" text-anchor="middle">572</text><text x="253" y="226" font-size="10" fill="#7982a9" text-anchor="middle">May</text>
+<rect x="276" y="180.4" width="26" height="27.6" rx="3" fill="#7aa2f7"/><text x="289" y="174.4" font-size="10" fill="#7982a9" text-anchor="middle">400</text><text x="289" y="226" font-size="10" fill="#7982a9" text-anchor="middle">Jun</text>
+<rect x="312" y="137.0" width="26" height="71.0" rx="3" fill="#7aa2f7"/><text x="325" y="131.0" font-size="10" fill="#7982a9" text-anchor="middle">1028</text><text x="325" y="226" font-size="10" fill="#7982a9" text-anchor="middle">Jul</text>
+<rect x="348" y="96.0" width="26" height="112.0" rx="3" fill="#7aa2f7"/><text x="361" y="90.0" font-size="10" fill="#7982a9" text-anchor="middle">1622</text><text x="361" y="226" font-size="10" fill="#7982a9" text-anchor="middle">Aug</text>
+<rect x="384" y="137.9" width="26" height="70.1" rx="3" fill="#7aa2f7"/><text x="397" y="131.9" font-size="10" fill="#7982a9" text-anchor="middle">1015</text><text x="397" y="226" font-size="10" fill="#7982a9" text-anchor="middle">Sep</text>
+<rect x="420" y="111.7" width="26" height="96.3" rx="3" fill="#bb9af7"/><text x="433" y="105.7" font-size="10" fill="#7982a9" text-anchor="middle">1394</text><text x="433" y="226" font-size="10" fill="#7982a9" text-anchor="middle">Oct</text>
+  </g>
+</svg>
