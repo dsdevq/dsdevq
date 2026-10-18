@@ -33,13 +33,12 @@ Full-stack developer in Dublin, Ireland 🇮🇪 with a strong core in **Angular
 
 | Repo | What it is |
 |---|---|
-| [devclaw](https://github.com/lifekit-hq/devclaw) | An autonomous development loop behind MCP: a GitHub issue with a `## Done when` section goes in, a CI-checked pull request comes out (Python, Claude Code in a Docker sandbox) |
 | [lifekit-stack](https://github.com/lifekit-hq/lifekit-stack) | Deploys the stack to a VPS: Docker Compose, with Prometheus, Loki, Tempo and Grafana for observability |
 | [lifekit-health](https://github.com/lifekit-hq/lifekit-health) | Local-first CLI tools and agent skills for workout, nutrition and daily-state tracking (TypeScript) |
 | [career-kit](https://github.com/lifekit-hq/career-kit) | YAML-driven CV tailoring over RenderCV: one profile of facts, many role variants (Python) |
 | [lifekit-common](https://github.com/lifekit-hq/lifekit-common) | The lifekit design system: shared tokens and Angular components |
 
-Most pull requests across lifekit-hq are opened by coding agents (Claude Code) that I direct: I set the goal and the definition of done, and CI plus a separate review step decide what merges. devclaw is that workflow turned into a tool.
+Most pull requests across lifekit-hq are opened by coding agents (Claude Code) that I direct: I set the goal and the definition of done, and CI plus a separate review step decide what merges.
 
 ---
 
