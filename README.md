@@ -20,3 +20,5 @@ Angular, TypeScript, RxJS, .NET, C#, ASP.NET Core, EF Core, PostgreSQL, Docker, 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/denys-sychov-4b2819242/) · [LeetCode](https://leetcode.com/dsdevq) · [GitLab](https://gitlab.com/dsdevq)
+
+[![GitHub streak](https://streak-stats.demolab.com/?user=dsdevq)](https://github.com/DenverCoder1/github-readme-streak-stats)
